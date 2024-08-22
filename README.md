@@ -2,8 +2,7 @@
 
 ### 🌟 Data Enthusiast | Aspiring Data Analyst
 
-I'm passionate about leveraging data to uncover insights and drive business decisions. My expertise lies in **SQL, Power BI, and Excel**, and I'm currently expanding my toolkit by learning **Python**.
-
+I'm passionate about leveraging data to uncover insights and drive business decisions. My expertise lies in **SQL, Power BI, and Excel**.
 ---
 
 ## 🚀 Skills
@@ -23,13 +22,13 @@ I'm passionate about leveraging data to uncover insights and drive business deci
 - **SQL**
 - **Power BI**
 - **Excel**
-- **Python** (Learning)
 
 ---
 
 ## 🌱 Currently Learning
-- **Python**: Expanding my capabilities in data manipulation, analysis, and visualization.
 - **Advanced SQL**: Diving deeper into complex queries, optimization, and database design.
+- **Python**: Expanding my capabilities in data manipulation, analysis, and visualization.
+
 
 ---
 
@@ -50,8 +49,8 @@ I'm passionate about leveraging data to uncover insights and drive business deci
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kumara-swamy-kongari/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:kongarikumar05@gmai.com)
 
 ---
 
