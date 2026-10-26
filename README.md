@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kumara Swamy
+# Hi there 👋, I'm Kumaraswamy
 
 ### 🌟 Data Enthusiast | Aspiring Data Analyst
 
