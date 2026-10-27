@@ -181,7 +181,7 @@ I'm especially interested in opportunities where I can combine my healthcare ope
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Kumara Swamy Kongari](https://www.linkedin.com/in/kumara-swamy-kongari/)
+- 💼 LinkedIn: [Kumaraswamy Kongari](www.linkedin.com/in/kumaraswamy-kongari)
 - 💻 GitHub: [Kumar16-1116](https://github.com/Kumar16-1116)
 - <a href="mailto:kumaraswamyk1611@gmail.com">📧 Email Me</a>
 
