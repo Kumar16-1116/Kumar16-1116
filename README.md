@@ -78,7 +78,7 @@ Analysed global health expenditure data and developed an interactive dashboard t
 - Trend exploration
 - Communicating insights through dashboards
 
-🔗 [View project repository]([YOUR_HEALTH_EXPENDITURE_REPOSITORY_URL](https://github.com/Kumar16-1116/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project))
+🔗 [View project repository](https://github.com/Kumar16-1116/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project)
 
 ### 💼 3. Data Science Salary Insights — Excel
 
