@@ -1,27 +1,46 @@
-# Hi there 👋, I'm Kumaraswamy Kongari
+Hi there 👋, I'm Kumaraswamy Kongari
 
-### Healthcare Data Science | Healthcare Analytics | Digital Health & Research
+### Health Data Science | Healthcare Analytics | Digital Health
 
-I'm a healthcare professional transitioning into **health data science and analytics**, combining my experience in US healthcare operations and electronic health record (EHR) systems with my growing skills in data analysis, programming and digital health.
+I'm developing my skills in health data science and analytics, building on more than four years of experience in US healthcare operations, electronic health records (EHRs), and revenue cycle management.
 
-I'm currently pursuing an **MSc in Computational Health Data Science at the University of Leicester, UK**. I'm interested in exploring how healthcare data, statistical analysis and AI can contribute to better research, informed decision-making and improved patient outcomes.
-
-I'm building my technical skills and portfolio through practical projects, independent learning and AI-assisted prototyping.
+I'm pursuing an **MSc in Health Data Science at the University of Leicester, UK**. I'm interested in using careful analysis of health data to support research, clearer communication, and informed healthcare discussions.
 
 ---
 
 ## 🎯 About Me
 
-- 🎓 MSc Computational Health Data Science student.
-- 🏥 Over 4 years of experience in healthcare operations, EHR systems and revenue cycle management.
-- 📊 Interested in healthcare analytics, clinical data, data visualisation and evidence-based decision-making.
-- 🧬 Exploring cancer research, public health, clinical research and digital health applications.
-- 🤖 Learning how AI-assisted development can support early-stage healthcare technology prototyping.
-- 🌱 Continuously developing my skills in Python, R, SQL, Excel and data visualisation.
-- 🔍 Interested in healthcare data analyst roles, research assistant opportunities, research internships and digital health projects.
+- 🎓 MSc Health Data Science student.
+- 🏥 4+ years of experience in healthcare operations, EHR systems, and revenue cycle management.
+- 📊 Interested in healthcare analytics, clinical data, data visualisation, and evidence-based research.
+- 🧬 Exploring cancer research, public health, clinical research, and digital health.
+- 🌱 Developing skills in Python, R, SQL, Excel, and Power BI.
+- 🤝 Interested in healthcare analytics, research, and digital health opportunities.
 
----
+## 🛠️ Skills & Technologies
 
+**Data and programming:** Python, R/RStudio, SQL, Microsoft Excel  
+**Visualisation and reporting:** Power BI, Excel dashboards, exploratory data analysis  
+**Healthcare:** EHR systems, Epic and Meditech, revenue cycle management, prior authorisations, inpatient and outpatient operations, healthcare documentation, and data quality  
+**Digital health:** health technology concepts, AI-assisted prototyping, responsible use of health data
+
+*These reflect my professional experience, current learning, and project interests. My proficiency varies by technology.*
+
+## 🚀 Projects
+
+### 🧬 CasePath — Cancer Treatment Statistics Explorer
+
+A browser-based prototype that makes published cancer treatment statistics easier to explore and gives healthcare providers another source of information to consider during care discussions.
+
+CasePath uses public, group-level NHS England National Disease Registration Service (NDRS) cancer treatment statistics. Visitors can explore results by cancer type and view age-group or cancer-stage summaries, including recorded treatment counts, percentages, and confidence intervals.
+
+**What I worked on:** project concept, user requirements, webpage structure, search experience, public data integration, and clear explanations of privacy and limitations. I used AI-assisted development tools to help build the prototype.
+
+**Important:** CasePath does not use an AI model, match individual patients, store patient records, or recommend treatment. Age and stage results are separate group summaries, not a combined comparison for a specific age-and-stage group. The site is an exploratory prototype, not clinical advice.
+
+- [View the CasePath website](https://kumar16-1116.github.io/casepath.health/)
+- [View the CasePath repository](https://github.com/Kumar16-1116/casepath.health)
+- [NHS England NDRS Cancer Treatments data](https://digital.nhs.uk/ndrs/data/data-outputs/cancer-data-hub/cancer-treatments)
 ## 🛠️ Skills & Technologies
 
 ### Data Analysis & Programming
