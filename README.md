@@ -19,30 +19,6 @@ I'm pursuing an **MSc in Health Data Science at the University of Leicester, UK*
 
 ## 🛠️ Skills & Technologies
 
-**Data and programming:** Python, R/RStudio, SQL, Microsoft Excel  
-**Visualisation and reporting:** Power BI, Excel dashboards, exploratory data analysis  
-**Healthcare:** EHR systems, Epic and Meditech, revenue cycle management, prior authorisations, inpatient and outpatient operations, healthcare documentation, and data quality  
-**Digital health:** health technology concepts, AI-assisted prototyping, responsible use of health data
-
-*These reflect my professional experience, current learning, and project interests. My proficiency varies by technology.*
-
-## 🚀 Projects
-
-### 🧬 CasePath — Cancer Treatment Statistics Explorer
-
-A browser-based prototype that makes published cancer treatment statistics easier to explore and gives healthcare providers another source of information to consider during care discussions.
-
-CasePath uses public, group-level NHS England National Disease Registration Service (NDRS) cancer treatment statistics. Visitors can explore results by cancer type and view age-group or cancer-stage summaries, including recorded treatment counts, percentages, and confidence intervals.
-
-**What I worked on:** project concept, user requirements, webpage structure, search experience, public data integration, and clear explanations of privacy and limitations. I used AI-assisted development tools to help build the prototype.
-
-**Important:** CasePath does not use an AI model, match individual patients, store patient records, or recommend treatment. Age and stage results are separate group summaries, not a combined comparison for a specific age-and-stage group. The site is an exploratory prototype, not clinical advice.
-
-- [View the CasePath website](https://kumar16-1116.github.io/casepath.health/)
-- [View the CasePath repository](https://github.com/Kumar16-1116/casepath.health)
-- [NHS England NDRS Cancer Treatments data](https://digital.nhs.uk/ndrs/data/data-outputs/cancer-data-hub/cancer-treatments)
-## 🛠️ Skills & Technologies
-
 ### Data Analysis & Programming
 
 - Python
@@ -78,25 +54,19 @@ CasePath uses public, group-level NHS England National Disease Registration Serv
 
 ## 🚀 Projects
 
-### 🧬 1. AI-Assisted Cancer Research Prototype
+### 🧬 1. CasePath — Cancer Treatment Statistics Explorer
 
-**Status: Early-stage concept and prototype**
+A browser-based prototype that makes published cancer treatment statistics easier to explore and gives healthcare providers another source of information to consider during care discussions.
 
-An independent healthcare technology project exploring how healthcare data science and AI could be applied to cancer outcomes research.
+CasePath uses public, group-level NHS England National Disease Registration Service (NDRS) cancer treatment statistics. Visitors can explore results by cancer type and view age-group or cancer-stage summaries, including recorded treatment counts, percentages, and confidence intervals.
 
-**Project goals:**
-- Explore how patient characteristics and cancer outcomes might be analysed.
-- Investigate suitable datasets and potential analytical methods.
-- Design a user-facing webpage with search functionality and privacy considerations.
-- Explore how statistical analysis and machine learning could help researchers investigate patterns in patient outcomes.
+**What I worked on:** project concept, user requirements, webpage structure, search experience, public data integration, and clear explanations of privacy and limitations. I used AI-assisted development tools to help build the prototype.
 
-**My contribution:** I defined the initial concept, requirements, webpage design direction, data needs and intended features. I used AI-assisted development tools to help generate the initial webpage implementation.
+**Important:** CasePath does not use an AI model, match individual patients, store patient records, or recommend treatment. Age and stage results are separate group summaries, not a combined comparison for a specific age-and-stage group. The site is an exploratory prototype, not clinical advice.
 
-**Next steps:** Validate the functionality, identify appropriate datasets, conduct reproducible analyses and evaluate the limitations of any proposed methods.
-
-🔗 [View project webpage](YOUR_PROJECT_URL)
-
-*This is an exploratory project, not a clinically validated prediction or treatment recommendation system.*
+- [View the CasePath website](https://kumar16-1116.github.io/casepath.health/)
+- [View the CasePath repository](https://github.com/Kumar16-1116/casepath.health)
+- [NHS England NDRS Cancer Treatments data](https://digital.nhs.uk/ndrs/data/data-outputs/cancer-data-hub/cancer-treatments)
 
 ### 📊 2. Global Health Expenditure Analysis — Power BI
 
