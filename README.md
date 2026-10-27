@@ -4,7 +4,7 @@
 
 I'm a healthcare professional transitioning into **health data science and analytics**, combining my experience in US healthcare operations and electronic health record (EHR) systems with my growing skills in data analysis, programming and digital health.
 
-I'm currently pursuing an **MSc in Computational Health Data Science with Industry at the University of Leicester, UK**. I'm interested in exploring how healthcare data, statistical analysis and AI can contribute to better research, informed decision-making and improved patient outcomes.
+I'm currently pursuing an **MSc in Computational Health Data Science at the University of Leicester, UK**. I'm interested in exploring how healthcare data, statistical analysis and AI can contribute to better research, informed decision-making and improved patient outcomes.
 
 I'm building my technical skills and portfolio through practical projects, independent learning and AI-assisted prototyping.
 
@@ -12,7 +12,7 @@ I'm building my technical skills and portfolio through practical projects, indep
 
 ## 🎯 About Me
 
-- 🎓 MSc Computational Health Data Science with Industry student.
+- 🎓 MSc Computational Health Data Science student.
 - 🏥 Over 4 years of experience in healthcare operations, EHR systems and revenue cycle management.
 - 📊 Interested in healthcare analytics, clinical data, data visualisation and evidence-based decision-making.
 - 🧬 Exploring cancer research, public health, clinical research and digital health applications.
