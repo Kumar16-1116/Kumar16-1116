@@ -89,7 +89,7 @@ Analysed global health expenditure data and developed an interactive dashboard t
 - Trend exploration
 - Communicating insights through dashboards
 
-🔗 [View project repository](YOUR_HEALTH_EXPENDITURE_REPOSITORY_URL)
+🔗 [View project repository]([YOUR_HEALTH_EXPENDITURE_REPOSITORY_URL](https://github.com/Kumar16-1116/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project))
 
 ### 💼 3. Data Science Salary Insights — Excel
 
@@ -101,7 +101,7 @@ Explored data science salary trends using Excel and created a dashboard to prese
 - Excel dashboards
 - Insight communication
 
-🔗 [View project repository](YOUR_SALARY_PROJECT_REPOSITORY_URL)
+🔗 [View project repository](https://github.com/Kumar16-1116/Data-Science-salary-dataset---Excel-Project)
 
 ### 🏦 4. Banking CRM Analysis — SQL
 
@@ -113,7 +113,7 @@ Used SQL queries to explore and manage customer relationship data for a banking-
 - Structured data analysis
 - Database concepts
 
-🔗 [View project repository](YOUR_BANKING_PROJECT_REPOSITORY_URL)
+🔗 [View project repository](https://github.com/Kumar16-1116/Analytical-CRM-Development-for-a-Bank)
 
 ### 🛒 5. Retail Supply Chain & Sales Analysis — Power BI
 
